@@ -1,0 +1,1 @@
+activate venv git bash: . venv_name/Scripts/activate
