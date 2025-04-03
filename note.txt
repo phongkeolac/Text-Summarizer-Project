@@ -1,1 +1,9 @@
-activate venv git bash: . venv_name/Scripts/activate
+- activate venv git bash: . venv_name/Scripts/activate
+
+- git push:
+1. git add .
+2. git commit -m "folder structure added"
+3. git push origin main
+
+- create virtual environment git bash
+py -m venv (virtual_env_name) python=(python version you want)
