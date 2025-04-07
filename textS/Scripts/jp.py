@@ -1,4 +1,4 @@
-#!D:\Code\textSummarizer\Text-Summarizer-Project\textS\Scripts\python.exe
+#!D:\Code4life\TextSummarization\Text-Summarizer-Project\textS\Scripts\python.exe
 
 import sys
 import json
